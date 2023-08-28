@@ -1,0 +1,195 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - CocoaLumberjack (2.2.0):
+    - CocoaLumberjack/Default (= 2.2.0)
+    - CocoaLumberjack/Extensions (= 2.2.0)
+  - CocoaLumberjack/Core (2.2.0)
+  - CocoaLumberjack/Default (2.2.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.2.0):
+    - CocoaLumberjack/Default
+  - DACircularProgress (2.3.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - JSPatch (1.1.3):
+    - JSPatch/Core (= 1.1.3)
+  - JSPatch/Core (1.1.3)
+  - JSPatchPlatform (1.6.6):
+    - JSPatchPlatform/Core (= 1.6.6)
+  - JSPatchPlatform/Core (1.6.6):
+    - JSPatch
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - MWPhotoBrowser (2.1.2):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.2.2)
+  - TLKit (0.0.13):
+    - TLKit/TLCategories (= 0.0.13)
+    - TLKit/TLFunctional (= 0.0.13)
+    - TLKit/TLShortcut (= 0.0.13)
+  - TLKit/TLCategories (0.0.13):
+    - TLKit/TLCategories/Foundation (= 0.0.13)
+    - TLKit/TLCategories/UIKit (= 0.0.13)
+  - TLKit/TLCategories/Foundation (0.0.13):
+    - TLKit/TLCategories/Foundation/NSArray (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSBundle (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSData (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSDate (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSDictionary (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSDictionary (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSFileManager (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSMutableArray (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSMutableDictionary (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSNotificationCenter (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSObject (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSString (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSTimer (= 0.0.13)
+    - TLKit/TLCategories/Foundation/NSURL (= 0.0.13)
+  - TLKit/TLCategories/Foundation/NSArray (0.0.13)
+  - TLKit/TLCategories/Foundation/NSBundle (0.0.13)
+  - TLKit/TLCategories/Foundation/NSData (0.0.13)
+  - TLKit/TLCategories/Foundation/NSDate (0.0.13)
+  - TLKit/TLCategories/Foundation/NSDictionary (0.0.13)
+  - TLKit/TLCategories/Foundation/NSFileManager (0.0.13)
+  - TLKit/TLCategories/Foundation/NSMutableArray (0.0.13)
+  - TLKit/TLCategories/Foundation/NSMutableDictionary (0.0.13)
+  - TLKit/TLCategories/Foundation/NSNotificationCenter (0.0.13)
+  - TLKit/TLCategories/Foundation/NSObject (0.0.13)
+  - TLKit/TLCategories/Foundation/NSString (0.0.13):
+    - TLKit/TLCategories/Foundation/NSData
+  - TLKit/TLCategories/Foundation/NSTimer (0.0.13)
+  - TLKit/TLCategories/Foundation/NSURL (0.0.13)
+  - TLKit/TLCategories/UIKit (0.0.13):
+    - TLKit/TLCategories/UIKit/UIAlertView (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIBarButtonItem (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIButton (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UICollectionViewCell (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIColor (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIControl (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIImage (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UINavigationBar (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UINavigationController (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UINavigationItem (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIScrollView (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UITextField (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UITextView (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIView (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIViewController (= 0.0.13)
+    - TLKit/TLCategories/UIKit/UIWindow (= 0.0.13)
+  - TLKit/TLCategories/UIKit/UIAlertView (0.0.13)
+  - TLKit/TLCategories/UIKit/UIBarButtonItem (0.0.13)
+  - TLKit/TLCategories/UIKit/UIButton (0.0.13):
+    - TLKit/TLCategories/UIKit/UIImage
+  - TLKit/TLCategories/UIKit/UICollectionViewCell (0.0.13)
+  - TLKit/TLCategories/UIKit/UIColor (0.0.13)
+  - TLKit/TLCategories/UIKit/UIControl (0.0.13)
+  - TLKit/TLCategories/UIKit/UIImage (0.0.13)
+  - TLKit/TLCategories/UIKit/UINavigationBar (0.0.13)
+  - TLKit/TLCategories/UIKit/UINavigationController (0.0.13)
+  - TLKit/TLCategories/UIKit/UINavigationItem (0.0.13):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+  - TLKit/TLCategories/UIKit/UIScrollView (0.0.13)
+  - TLKit/TLCategories/UIKit/UITextField (0.0.13)
+  - TLKit/TLCategories/UIKit/UITextView (0.0.13)
+  - TLKit/TLCategories/UIKit/UIView (0.0.13):
+    - TLKit/TLCategories/Foundation/NSObject
+    - TLKit/TLShortcut
+  - TLKit/TLCategories/UIKit/UIViewController (0.0.13):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+    - TLKit/TLCategories/UIKit/UINavigationController
+    - TLKit/TLCategories/UIKit/UIView
+  - TLKit/TLCategories/UIKit/UIWindow (0.0.13)
+  - TLKit/TLFunctional (0.0.13):
+    - TLKit/TLFunctional/TLActionSheet (= 0.0.13)
+    - TLKit/TLFunctional/TLUIUtility (= 0.0.13)
+  - TLKit/TLFunctional/TLActionSheet (0.0.13)
+  - TLKit/TLFunctional/TLUIUtility (0.0.13):
+    - SVProgressHUD (~> 2.2.2)
+    - TLKit/TLCategories/UIKit/UIAlertView
+    - TLKit/TLCategories/UIKit/UIWindow
+  - TLKit/TLShortcut (0.0.13)
+  - TLTabBarController (0.0.3)
+  - UMengAnalytics (3.6.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - CocoaLumberjack (~> 2.2.0)
+  - FMDB (~> 2.6)
+  - JSPatchPlatform (~> 1.6.6)
+  - Masonry (~> 0.6.4)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 3.1.0)
+  - MWPhotoBrowser (~> 2.1.1)
+  - ReactiveCocoa (~> 2.5)
+  - SDWebImage (~> 3.7.4)
+  - TLKit (from `git@github.com:tbl00c/TLKit.git`, tag `0.0.13`)
+  - TLTabBarController (from `git@github.com:tbl00c/TLTabBarController.git`, tag `0.0.3`)
+  - UMengAnalytics (~> 3.6.6)
+
+EXTERNAL SOURCES:
+  TLKit:
+    :git: git@github.com:tbl00c/TLKit.git
+    :tag: 0.0.13
+  TLTabBarController:
+    :git: git@github.com:tbl00c/TLTabBarController.git
+    :tag: 0.0.3
+
+CHECKOUT OPTIONS:
+  TLKit:
+    :git: git@github.com:tbl00c/TLKit.git
+    :tag: 0.0.13
+  TLTabBarController:
+    :git: git@github.com:tbl00c/TLTabBarController.git
+    :tag: 0.0.3
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  JSPatch: 02cfed591cb907bbfe80a346666e5a35fc2d349d
+  JSPatchPlatform: 8cc9aaebe21109d5fdfb4500384ddf38ed0990e9
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MWPhotoBrowser: 5836d7aa041dc05a13de380c246826578adc5ea5
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  TLKit: 44b586b864bcc46ba5462426525ccada5421064a
+  TLTabBarController: f5e5df41839298fbe0136c3bddcb49ee0991ae14
+  UMengAnalytics: 4bf831415146b9c57cb10be65fbd43462ef8cf65
+
+PODFILE CHECKSUM: 3f0468b52a1f963a4fb2b09918c8201b004ff6a4
+
+COCOAPODS: 1.2.1
